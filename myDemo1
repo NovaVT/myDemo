@@ -1,0 +1,5 @@
+public class myDemo1{
+  public static void main(String[] void){
+    System.out.println("HELLO Github!!");
+  }
+}
